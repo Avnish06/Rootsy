@@ -1,6 +1,6 @@
 
 import { Header } from "./Header";
-import  Hero from "./Hero.jsx";
+import  Hero from "./Home.jsx";
 import { Footer } from "./Footer";
 
 export default function LandingPage() {

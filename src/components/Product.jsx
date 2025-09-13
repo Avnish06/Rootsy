@@ -1,5 +1,6 @@
 
-function About() {
+
+function Product() {
   return (
     <div>
       
@@ -7,4 +8,4 @@ function About() {
   )
 }
 
-export default About
+export default Product

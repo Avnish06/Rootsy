@@ -1,4 +1,4 @@
-export function Footer() {
+export default function Footer() {
   return (
     <footer className="py-8 bg-gray-900 text-white">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center px-6 md:px-20">
